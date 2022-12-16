@@ -1,0 +1,352 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 1201px) and (max-width: 1365px) {
+
+    .hero-left-item h2 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 63px;
+    }
+
+    
+  
+
+
+
+
+
+
+
+}
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+    .hero-left-item h2 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 63px;
+    }
+
+    .wtl-wrapper ul li img {
+        max-width: 154px;
+      }
+  
+      .wtl-wrapper ul li span {
+        font-family: 'Roboto Slab', serif;
+        font-size: 28px;
+      }
+
+      .plan-table-wrapper-primary {
+        overflow: scroll;
+        scrollbar-width: thin;
+      }
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+    .menu-logo {
+        display: block !important;
+    }
+    .menu-bar {
+        display: block;
+    }
+
+    .menu-item{
+        display: none !important;
+    }
+
+    .menu-btn {
+        display: none !important;
+    }
+
+    
+    .top-bars-{
+        display: none;
+    }
+
+    .hero-area {
+        padding: 10px 0 50px 0;
+      }
+    .hero-left-item h4 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 42px;
+    }
+    .for-sut span {
+        font-family: 'Roboto Slab', serif;
+        font-size: 16px;
+        padding: 4px 61px 5px 28px;
+      }
+   
+    .hero-left-item h2 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 33px;
+    }
+
+    .h-membership {
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+      }
+
+      .h-membership a {
+        font-family: 'Roboto Slab', serif;
+        font-size: 17px;
+    }
+
+    .owl-dots {
+        position: absolute;
+        bottom: 25px;
+        right: 2%;
+        transform: translate(-50% -49%);
+      }
+      .owl-theme .owl-dots .owl-dot span {
+        width: 24px;
+      }
+
+      .what-we-title h2 {
+        font-size: 38px;
+      }
+      .wtl-wrapper ul{
+        display: block;
+        align-items: center;
+    }
+    .wtl-wrapper ul li {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+      /* =======
+    shop-page-start
+    ======== */
+    .protein-powder-area {
+        padding: 18px 0;
+      }
+
+      .protein-title h2 {
+        font-size: 36px;
+        font-weight: 700;
+        color: #000;
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 73px;
+      }
+      .shop-bottom-arrow {
+        padding-top: 41px;
+      }
+      .p-level ul li {
+        font-size: 18px;
+      }
+      .plan-table-wrapper-primary {
+        overflow: scroll;
+        scrollbar-width: thin;
+      }
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+
+    .menu-logo {
+        display: block !important;
+    }
+    .menu-bar {
+        display: block;
+    }
+
+    .menu-item{
+        display: none !important;
+    }
+
+    .menu-btn {
+        display: none !important;
+    }
+
+
+    .top-bars-{
+        display: none;
+    }
+
+    .hero-area {
+        padding: 10px 0 50px 0;
+      }
+    .hero-left-item h4 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 42px;
+    }
+    .for-sut span {
+        font-family: 'Roboto Slab', serif;
+        font-size: 24px;
+        padding: 1px 95px 1px 60px;
+    }
+   
+    .hero-left-item h2 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 51px;
+    }
+
+    .h-membership {
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+      }
+
+      .h-membership a {
+        font-family: 'Roboto Slab', serif;
+        font-size: 25px;
+    }
+
+    .what-we-title h2 {
+        font-size: 38px;
+      }
+      .wtl-wrapper ul{
+        display: block;
+        align-items: center;
+    }
+    .wtl-wrapper ul li {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+      /* =======
+    shop-page-start
+    ======== */
+    .protein-powder-area {
+        padding: 18px 0;
+      }
+
+      .protein-title h2 {
+        font-size: 36px;
+        font-weight: 700;
+        color: #000;
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 73px;
+      }
+      .shop-bottom-arrow {
+        padding-top: 41px;
+      }
+      .plan-table-wrapper-primary {
+        overflow: scroll;
+        scrollbar-width: thin;
+      }
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+    .menu-logo {
+        display: block !important;
+    }
+    .menu-bar {
+        display: block;
+    }
+
+    .menu-item{
+        display: none !important;
+    }
+
+    .menu-btn {
+        display: none !important;
+    }
+
+    .top-bars-{
+        display: none;
+    }
+
+    .hero-area {
+        padding: 10px 0 50px 0;
+      }
+    .hero-left-item h4 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 42px;
+    }
+    .for-sut span {
+        font-family: 'Roboto Slab', serif;
+        font-size: 19px;
+        padding: 4px 62px 4px 42px;
+        margin-left: 30px;
+    }
+   
+    .hero-left-item h2 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 35px;
+    }
+
+    .h-membership {
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+      }
+
+      .h-membership a {
+        font-family: 'Roboto Slab', serif;
+        font-size: 25px;
+    }
+
+    .owl-theme .owl-dots .owl-dot span {
+       display: none;
+      }
+
+
+      .what-we-title h2 {
+        font-size: 38px;
+      }
+      .wtl-wrapper ul{
+        display: block;
+        align-items: center;
+    }
+    .wtl-wrapper ul li {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+    /* =======
+    shop-page-start
+    ======== */
+    .protein-powder-area {
+        padding: 18px 0;
+      }
+
+      .protein-title h2 {
+        font-size: 36px;
+        font-weight: 700;
+        color: #000;
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 73px;
+      }
+      .shop-bottom-arrow {
+        padding-top: 41px;
+      }
+
+
+      .plan-table-wrapper-primary {
+        overflow: scroll;
+        scrollbar-width: thin;
+      }
+
+
+}
